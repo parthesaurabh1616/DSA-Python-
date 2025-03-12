@@ -1,0 +1,13 @@
+What is a Linked List?
+
+- A linked list is a linear data structure where each element (node) contains a data part and a reference (or link) to the next node in the sequence. Unlike arrays, linked lists do not have a fixed size and can grow or shrink dynamically.
+
+Basic Operations
+
+1. Traversal: Visiting each node in the linked list.
+
+2. Insertion: Adding a new node at a specific position.
+
+3. Deletion: Removing a node from a specific position.
+
+4. Searching: Finding a node with a specific value.

@@ -1,0 +1,11 @@
+What is an Array?
+- An array is a data structure that stores elements of the same data type in a contiguous block of memory. Each element can be accessed using its index, starting from zero.
+
+Basic Operations
+1. Traversal: Iterating through all elements in the array.
+
+2. Insertion: Adding an element at a specific index.
+
+3. Deletion: Removing an element from a specific index.
+
+4. Searching: Finding the index of a specific element

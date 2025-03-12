@@ -1,0 +1,16 @@
+Hashing:
+
+- Hashing is a technique used to map data to a fixed-size array,
+making searching, insertion, and deletion operations efficient. 
+
+- Hashing often uses a hash function to convert keys into array indices.
+
+- Fast Lookups 🔥: O(1) average-case time complexity for insertion, deletion, and search.
+
+- Efficient Data Storage 🗄️: Quickly find data without scanning every element.
+
+- Used in Real-World Applications:
+   - Databases (indexing)
+   - Caches
+   - Cryptography (SHA, MD5)
+   - Unique identifier generation

@@ -1,0 +1,13 @@
+Trees
+
+- Trees are hierarchical data structures used to represent relationships between elements. A tree consists of nodes connected by edges, with one node designated as the root. Each node can have zero or more child nodes, and nodes with no children are called leaves.
+
+Basic Operations
+
+1. Traversal: Visiting all the nodes in the tree in a specific order (Inorder, Preorder, Postorder).
+
+2. Insertion: Adding a new node to the tree.
+
+3. Deletion: Removing a node from the tree.
+
+4. Searching: Finding a node with a specific value in the tree.

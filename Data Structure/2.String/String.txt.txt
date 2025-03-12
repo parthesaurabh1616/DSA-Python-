@@ -1,0 +1,13 @@
+What is a String?
+
+- A string is a sequence of characters, typically used to represent text. Strings are immutable in many programming languages, meaning their contents cannot be changed once they are created.
+
+Basic Operations
+
+1. Traversal: Iterating through each character in the string.
+
+2. Concatenation: Joining two or more strings.
+
+3. Substring: Extracting a portion of a string.
+
+4. Searching: Finding the occurrence of a substring within a string.

@@ -1,0 +1,13 @@
+Graphs
+
+- Graphs are used to represent networks of interconnected elements. A graph consists of vertices (nodes) and edges (connections between nodes).
+
+Basic Operations
+
+1. Traversal: Visiting all the vertices and edges in the graph (BFS, DFS).
+
+2. Shortest Path: Finding the shortest path between two nodes (Dijkstra's Algorithm, Bellman-Ford Algorithm).
+
+3. Cycle Detection: Detecting if there is a cycle in the graph.
+
+4. Topological Sort: Ordering vertices in a directed acyclic graph (DAG).

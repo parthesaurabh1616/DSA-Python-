@@ -1,0 +1,25 @@
+Tries
+
+- Tries, also known as prefix trees, are used to store collections of strings.
+- They are particularly useful for prefix-based searches and are efficient for 
+- tasks such as autocomplete and spell checking.
+
+✅ Key Concepts
+
+1. Node Structure:
+
+   - Each node represents a character.
+   - Each node has up to 26 (for lowercase English letters) or more child nodes depending on the character set.
+   - A flag to mark the end of a word.
+
+2. Operations:
+
+   - Insert 🔠: Add a word to the trie.
+   - Search 🔍: Check if a word exists in the trie.
+   - StartsWith 🏁: Check if any word starts with a given prefix.
+
+3. Time Complexity:
+
+   - Insertion: O(L) (L = length of the word)
+   - Search: O(L)
+   - Prefix Search: O(L)

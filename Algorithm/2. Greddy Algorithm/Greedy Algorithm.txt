@@ -1,0 +1,4 @@
+Greedy Algorithms
+
+- Greedy algorithms build a solution step by step, choosing the option that looks best at each step. 
+- While they don’t always guarantee the optimal solution for every problem, they work well for many cases like scheduling, Huffman coding, and graph-related problems.
